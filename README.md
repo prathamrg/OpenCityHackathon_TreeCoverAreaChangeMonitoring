@@ -4,7 +4,10 @@ Notebook Developed during the Open City Climate Hackathon in Bengaluru, India in
 
 The specific KPI chosen by our team was: Area of tree canopy cover – Annual change in the city’s tree canopy cover (‘Tree canopy cover’ refers to the layer of leaves, branches, and stems of trees that, when viewed from above, covers the ground)
 
-Our team comprises of the following members:
+**The Dataset used:** **"Landsat Collection 2 Tier 1 Level 2 Annual NDVI Composite"** https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_COMPOSITES_C02_T1_L2_ANNUAL_NDVI because of its high resolution of 30m and annual temporality that smoothens out noise from variations in cloud cover across seasons
+
+
+**Our team comprises of the following members:**
 
 Pratham R. Goel (Lead Data Scientist at Sustainability and Transition Finance Insights Team, HSBC)
 
